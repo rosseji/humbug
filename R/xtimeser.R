@@ -1,4 +1,4 @@
 #' @export
-xtimeser<-function(x){ x*3
+xtimeser<-function(x){ x*7
 }
-xtimeser(2)
+
