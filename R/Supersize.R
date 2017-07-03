@@ -8,8 +8,8 @@
 #'
 supersize <- function(x){
 
-  x <- (x^x) * 1000000
+  (x^x) * 1000000
 
-  return(x)
+
 }
 
