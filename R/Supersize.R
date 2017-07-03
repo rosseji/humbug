@@ -10,6 +10,6 @@ supersize <- function(x){
 
   (x^x) * 1000000
 
-
+  # text!
 }
 
