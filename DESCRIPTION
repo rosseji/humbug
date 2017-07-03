@@ -3,7 +3,7 @@ Title: It's a humbug
 Version: 0.0.1
 Authors@R: person("Ross", "Ireland", email = "rosseireland@gmail.com", role = c("aut", "cre"))
 Description: It's a sure humbug
-Depends: R (>= 3.4.0), tidyverse, stringr
+Depends: R (>= 3.3.0), tidyverse, stringr
 License: MIT
 Encoding: UTF-8
 LazyData: true
